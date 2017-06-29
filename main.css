@@ -1,0 +1,26 @@
+body{
+    background-color:green;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+#mrmoose75{
+    color:black;
+}
+
+
+#div{
+    
+    background-color: red;
+}
+
+
+#image{
+  width: 20%;
+  display:block;
+  margin: auto;
+  padding: 100px;
+}
+
+hr{
+    border-color: blue;
+    border-width: 3px;
+}
